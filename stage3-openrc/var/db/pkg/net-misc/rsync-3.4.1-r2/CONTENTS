@@ -1,0 +1,31 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/rsync 53dd0f1580e54ca2594ff8265f117f50 1774200046
+obj /usr/bin/rsync-ssl ec85f398f7b20ec7667a2218c737e8b3 1774200045
+dir /usr/lib
+dir /usr/lib/systemd
+dir /usr/lib/systemd/system
+obj /usr/lib/systemd/system/rsyncd.service f96527522fffdf4f880dacf5bb738140 1774200045
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/rsync-3.4.1-r2
+obj /usr/share/doc/rsync-3.4.1-r2/NEWS.md.bz2 6d26b7bae6601b224b69752c8bd49fc5 1774200045
+obj /usr/share/doc/rsync-3.4.1-r2/README.md.bz2 9daa254b13589c9f7c3352833609f5ac 1774200045
+obj /usr/share/doc/rsync-3.4.1-r2/TODO.bz2 5988f814e678844370e3292dd7ee3502 1774200045
+obj /usr/share/doc/rsync-3.4.1-r2/tech_report.tex.bz2 e08cf3e4c4cfcd0e4b5ca5104f517b84 1774200045
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/rsync-ssl.1.bz2 a846307a6e4cc05c95af8565daf93054 1774200045
+obj /usr/share/man/man1/rsync.1.bz2 eb259ca219ed9509f3a01f6d4b7b28ff 1774200045
+dir /usr/share/man/man5
+obj /usr/share/man/man5/rsyncd.conf.5.bz2 ff5d6fdf43c7d870455b873ccfe24e91 1774200045
+dir /etc
+dir /etc/conf.d
+obj /etc/conf.d/rsyncd e5e62e8cef29e09c22e8ba8152ec1751 1774200045
+dir /etc/init.d
+obj /etc/init.d/rsyncd 581f5f60999b3b74f1280b683d41fa06 1774200045
+dir /etc/logrotate.d
+obj /etc/logrotate.d/rsyncd fec5c107e58f617de6d3808f3910b483 1774200045
+obj /etc/rsyncd.conf 18943337a879f5d9ffe3c56a0df6070d 1774200045
+dir /etc/xinetd.d
+obj /etc/xinetd.d/rsyncd 9fe188afd112764c6fcf1d07b80ca8d1 1774200045

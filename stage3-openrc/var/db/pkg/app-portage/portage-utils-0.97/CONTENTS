@@ -1,0 +1,46 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/q 9cccc466e513e70caa6ebd19b9258593 1762711054
+sym /usr/bin/qatom -> q 1776035847
+sym /usr/bin/qcheck -> q 1776035847
+sym /usr/bin/qdepends -> q 1776035847
+sym /usr/bin/qfile -> q 1776035847
+sym /usr/bin/qgrep -> q 1776035847
+sym /usr/bin/qkeyword -> q 1776035847
+sym /usr/bin/qlist -> q 1776035847
+sym /usr/bin/qlop -> q 1776035847
+sym /usr/bin/qmanifest -> q 1776035847
+sym /usr/bin/qmerge -> q 1776035847
+sym /usr/bin/qpkg -> q 1776035847
+sym /usr/bin/qsearch -> q 1776035847
+sym /usr/bin/qsize -> q 1776035847
+sym /usr/bin/qtbz2 -> q 1776035847
+sym /usr/bin/qtegrity -> q 1776035847
+sym /usr/bin/quse -> q 1776035847
+sym /usr/bin/qwhich -> q 1776035847
+sym /usr/bin/qxpak -> q 1776035847
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/portage-utils-0.97
+obj /usr/share/doc/portage-utils-0.97/README.md.bz2 ee8854ae78b8db00e484a1a2dfccac6f 1762711054
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/q.1.bz2 b7c49831941b778334806956fdcdc496 1762711053
+obj /usr/share/man/man1/qatom.1.bz2 38d40f4eee7d42ef41057bdc5364177c 1762711053
+obj /usr/share/man/man1/qcheck.1.bz2 fc57fb969e290aecd0ca56102b0bff4f 1762711053
+obj /usr/share/man/man1/qdepends.1.bz2 c9c618b724a3c500df93c0b9277f6062 1762711053
+obj /usr/share/man/man1/qfile.1.bz2 f98d5ab810980782ad581a9bf6d312cd 1762711053
+obj /usr/share/man/man1/qgrep.1.bz2 227e7cb660cf9b2b50e310f9bc4d21c1 1762711053
+obj /usr/share/man/man1/qkeyword.1.bz2 72af1a3b3903e6b3f932edde7984f697 1762711053
+obj /usr/share/man/man1/qlist.1.bz2 0faf5eee9720217ba75565ee058be46a 1762711053
+obj /usr/share/man/man1/qlop.1.bz2 f40411cfbacf50d601e4a1294a04d3de 1762711053
+obj /usr/share/man/man1/qmanifest.1.bz2 4394df1248feb9ac5fa48691e538b987 1762711053
+obj /usr/share/man/man1/qmerge.1.bz2 dd56837ab854c732bbeb123c8466b809 1762711053
+obj /usr/share/man/man1/qpkg.1.bz2 7c39320a0c245aecdf9f709f5e9c3fac 1762711053
+obj /usr/share/man/man1/qsearch.1.bz2 a59416a8084b310604876e814eda69e6 1762711053
+obj /usr/share/man/man1/qsize.1.bz2 f3e7560c80c2626bf17f99f863d71cd8 1762711053
+obj /usr/share/man/man1/qtbz2.1.bz2 32917c8c9edf6ea7a0667d3b50409d16 1762711053
+obj /usr/share/man/man1/qtegrity.1.bz2 e1917a0070bb8c6f0a1ca6542c250c0d 1762711053
+obj /usr/share/man/man1/quse.1.bz2 e600596d7e86bfb0450a9731702873cb 1762711053
+obj /usr/share/man/man1/qwhich.1.bz2 056ac39a778d6d43eb114c9b0879a402 1762711053
+obj /usr/share/man/man1/qxpak.1.bz2 58f25a8105659a5caf7a6ecc41373b19 1762711053

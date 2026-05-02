@@ -1,0 +1,20 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/sandbox 7c01bf7f2fb8cc0b5cbb340febca9dd4 1748208819
+dir /usr/lib64
+obj /usr/lib64/libsandbox.so a9c1fb9faad10f0e9eb6cd29e87450f3 1748208819
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/sandbox-2.46
+obj /usr/share/doc/sandbox-2.46/AUTHORS.bz2 e393f4235a4b380cc3c54783243c2ba9 1748208819
+obj /usr/share/doc/sandbox-2.46/ChangeLog.0.bz2 7dcc3e825378a660d2291500ac1fc3aa 1748208819
+obj /usr/share/doc/sandbox-2.46/ChangeLog.bz2 eebc4edb0ef948898ad11989232895b2 1748208819
+obj /usr/share/doc/sandbox-2.46/README.md.bz2 40e93232e562a620fb4d47270c3cfbe6 1748208819
+dir /usr/share/sandbox
+obj /usr/share/sandbox/sandbox.bashrc 8689ea7ceb4722618df53d6898ea11bd 1748208819
+dir /etc
+dir /etc/env.d
+obj /etc/env.d/09sandbox 1e4d8cd352642245a1af233d6b9b4e2f 1748208819
+obj /etc/sandbox.conf 137cc3d2ff9e4c47793b901a032391c4 1748208819
+dir /etc/sandbox.d
+obj /etc/sandbox.d/00default f704ea2e9c9b43dfd63468da6c0e336d 1748208819

@@ -1,0 +1,16 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/python3.13
+dir /usr/lib/python3.13/site-packages
+dir /usr/lib/python3.13/site-packages/__pycache__
+obj /usr/lib/python3.13/site-packages/__pycache__/mypy_extensions.cpython-313.opt-1.pyc 8642bb83126954baf1b915507d1f1e3c 1775675244
+obj /usr/lib/python3.13/site-packages/__pycache__/mypy_extensions.cpython-313.opt-2.pyc 92014b294fe436e92e03bc2347e004f5 1775675244
+obj /usr/lib/python3.13/site-packages/__pycache__/mypy_extensions.cpython-313.pyc ad5e24a9aa6bbd2251bfb6eb927e78e1 1775675244
+dir /usr/lib/python3.13/site-packages/mypy_extensions-1.1.0.dist-info
+obj /usr/lib/python3.13/site-packages/mypy_extensions-1.1.0.dist-info/METADATA da363a526e04ae5401f7c2fd4036cdf3 1775675244
+obj /usr/lib/python3.13/site-packages/mypy_extensions-1.1.0.dist-info/WHEEL eca1d2e32987c5c9fd85f21a0c92d672 1775675244
+obj /usr/lib/python3.13/site-packages/mypy_extensions.py 50927a8decc715ffab917394d0e185ba 1775675244
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/mypy-extensions-1.1.0
+obj /usr/share/doc/mypy-extensions-1.1.0/README.md.bz2 1fef056b635a4f39ffd0c262d48896d1 1775675244

@@ -1,0 +1,56 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/python3.13
+dir /usr/lib/python3.13/site-packages
+dir /usr/lib/python3.13/site-packages/psutil
+obj /usr/lib/python3.13/site-packages/psutil/__init__.py 754dfe4802e000317d71a813fc05dd70 1775675279
+dir /usr/lib/python3.13/site-packages/psutil/__pycache__
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/__init__.cpython-313.opt-1.pyc a4de22b7f5095466975b9b9ad400e460 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/__init__.cpython-313.opt-2.pyc aa57209803d041103f20160256860d9a 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/__init__.cpython-313.pyc b97ceb2c7d0f74189d96b90b0569444d 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_common.cpython-313.opt-1.pyc 39b7bb9e80bc16b09ddc8988936fee7f 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_common.cpython-313.opt-2.pyc 686a656c20b1971153273d15439a9021 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_common.cpython-313.pyc 6da41ab075b33438b4d72ec9b5b204e3 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_ntuples.cpython-313.opt-1.pyc de1432347e4742cd931492ef732aecb2 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_ntuples.cpython-313.opt-2.pyc de1432347e4742cd931492ef732aecb2 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_ntuples.cpython-313.pyc de1432347e4742cd931492ef732aecb2 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psaix.cpython-313.opt-1.pyc 1ad5daac3b70d81a241e0a57cb19f38b 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psaix.cpython-313.opt-2.pyc 59000135206f4aa16c6d198b6bfc22a0 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psaix.cpython-313.pyc 1ad5daac3b70d81a241e0a57cb19f38b 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psbsd.cpython-313.opt-1.pyc ce2d3b33074420d468253215dac53913 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psbsd.cpython-313.opt-2.pyc 3f7adcc368b56bc817a93bbfd2c42054 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psbsd.cpython-313.pyc c7cd35897360d5391e93c2defe2f71e9 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_pslinux.cpython-313.opt-1.pyc 63ae689505e4f645bd491274615dae52 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_pslinux.cpython-313.opt-2.pyc 9a0b388b85ad212825fea3725c840e52 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_pslinux.cpython-313.pyc bc816a8daada19e8d8cef3cc8a07a452 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psosx.cpython-313.opt-1.pyc 39d07e47d58a41a6580412a6131d730f 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psosx.cpython-313.opt-2.pyc 2fa93446a93c7a561024106b1318c791 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psosx.cpython-313.pyc 72171b1a81fdaf59e36811e741a594f6 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psposix.cpython-313.opt-1.pyc 1fd2881a22d664f2ddef78e0333d1d51 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psposix.cpython-313.opt-2.pyc 1be5f32e6fd8667045b0bcffdda1da98 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_psposix.cpython-313.pyc 28217758b1d5f69720654960ed1605b2 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_pssunos.cpython-313.opt-1.pyc 896a494b8eba325b18b04460bc107fe0 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_pssunos.cpython-313.opt-2.pyc ba92143c3b3f45f31ddcab9cdb47d7be 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_pssunos.cpython-313.pyc 4729783e54c5cb39997091bfb54bd082 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_pswindows.cpython-313.opt-1.pyc a63b69226117e56c1162c5da9490b3e8 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_pswindows.cpython-313.opt-2.pyc a867f7072166ad3d9d0bcfec23a45087 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/__pycache__/_pswindows.cpython-313.pyc 008fe058a7be61743cfe18d07bb29119 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/_common.py 0a38bb28e67040622696186504c57d0a 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/_ntuples.py 3fd5ac023d0855b747f3b68cb9420ff2 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/_psaix.py eac0fcdfb3e56eeed0b855e8abfbfa37 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/_psbsd.py 3ea1f31b6253b3d76d2edfde5ec2b358 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/_pslinux.py 5f49d36ee2b3a729ef45b906383a679c 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/_psosx.py afa9559da64bebe5e86fbf1a347c2892 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/_psposix.py 1cc80991383deb8054975e164ee19541 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/_pssunos.py c95435e0fdff9a742d5f15a07798072c 1775675279
+obj /usr/lib/python3.13/site-packages/psutil/_psutil_linux.abi3.so 2443ca6d077eba55f2ae405eaed27d15 1775675280
+obj /usr/lib/python3.13/site-packages/psutil/_pswindows.py 807520ef3782f103545df9660a260377 1775675279
+dir /usr/lib/python3.13/site-packages/psutil-7.2.2.dist-info
+obj /usr/lib/python3.13/site-packages/psutil-7.2.2.dist-info/METADATA b4a3d3dfa853a747a2c57661990379e9 1775675279
+obj /usr/lib/python3.13/site-packages/psutil-7.2.2.dist-info/WHEEL c48c72da9686b935f4738c6a4d4461be 1775675279
+obj /usr/lib/python3.13/site-packages/psutil-7.2.2.dist-info/top_level.txt d3401109f4f08fb7f9c3f411ea9209f2 1775675279
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/psutil-7.2.2
+obj /usr/share/doc/psutil-7.2.2/CREDITS.bz2 4e4f4c0769d671a845fac2f6629382ee 1775675280
+obj /usr/share/doc/psutil-7.2.2/README.rst.bz2 c632b9271c8b93db5171dc9b73a7669b 1775675280

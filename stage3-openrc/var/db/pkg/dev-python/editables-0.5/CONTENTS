@@ -1,0 +1,22 @@
+dir /usr
+dir /usr/lib
+dir /usr/lib/python3.13
+dir /usr/lib/python3.13/site-packages
+dir /usr/lib/python3.13/site-packages/editables
+obj /usr/lib/python3.13/site-packages/editables/__init__.py c706d7c841229ad83e3689f7041ab620 1760291299
+dir /usr/lib/python3.13/site-packages/editables/__pycache__
+obj /usr/lib/python3.13/site-packages/editables/__pycache__/__init__.cpython-313.opt-1.pyc 89d7abbdeba8690221b8fce15b5d9a0b 1760291299
+obj /usr/lib/python3.13/site-packages/editables/__pycache__/__init__.cpython-313.opt-2.pyc 89d7abbdeba8690221b8fce15b5d9a0b 1760291299
+obj /usr/lib/python3.13/site-packages/editables/__pycache__/__init__.cpython-313.pyc 89d7abbdeba8690221b8fce15b5d9a0b 1760291299
+obj /usr/lib/python3.13/site-packages/editables/__pycache__/redirector.cpython-313.opt-1.pyc 276704b96f6c3375638ab39f0037473c 1760291299
+obj /usr/lib/python3.13/site-packages/editables/__pycache__/redirector.cpython-313.opt-2.pyc 276704b96f6c3375638ab39f0037473c 1760291299
+obj /usr/lib/python3.13/site-packages/editables/__pycache__/redirector.cpython-313.pyc 276704b96f6c3375638ab39f0037473c 1760291299
+obj /usr/lib/python3.13/site-packages/editables/py.typed d41d8cd98f00b204e9800998ecf8427e 1760291299
+obj /usr/lib/python3.13/site-packages/editables/redirector.py f090673ccf98778775cc754abc1ae228 1760291299
+dir /usr/lib/python3.13/site-packages/editables-0.5.dist-info
+obj /usr/lib/python3.13/site-packages/editables-0.5.dist-info/METADATA 5ddb718e0fe253f43592460cf05828bd 1760291299
+obj /usr/lib/python3.13/site-packages/editables-0.5.dist-info/WHEEL eca1d2e32987c5c9fd85f21a0c92d672 1760291299
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/editables-0.5
+obj /usr/share/doc/editables-0.5/README.md.bz2 d52597ce808a520192e4a5f17fa9ac86 1760291300

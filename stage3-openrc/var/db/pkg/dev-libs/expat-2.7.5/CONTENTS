@@ -1,0 +1,36 @@
+dir /usr
+dir /usr/bin
+obj /usr/bin/xmlwf ca5264e42bc70c028986cf70d31d67d5 1774199863
+dir /usr/include
+obj /usr/include/expat.h 0d7ccfa326d67e5e9ff487ca1adc2533 1774199862
+obj /usr/include/expat_config.h eb7671075a2ad9f56b410a40aed47c58 1774199862
+obj /usr/include/expat_external.h 7c32316b577ebc2d717dd73c839d853f 1774199862
+dir /usr/lib64
+dir /usr/lib64/cmake
+dir /usr/lib64/cmake/expat-2.7.5
+obj /usr/lib64/cmake/expat-2.7.5/expat-config-version.cmake 172b4fb3b1d038f8fd67ed27d535bc61 1774199862
+obj /usr/lib64/cmake/expat-2.7.5/expat-config.cmake 23b18aad945e5b0d50162b145bda8b78 1774199862
+obj /usr/lib64/cmake/expat-2.7.5/expat-noconfig.cmake 6fb5917918d4803da10b718c614bb73b 1774199862
+obj /usr/lib64/cmake/expat-2.7.5/expat.cmake d1ab0366264d00965c0ebb558d979063 1774199862
+sym /usr/lib64/libexpat.so -> libexpat.so.1.11.3 1776035628
+sym /usr/lib64/libexpat.so.1 -> libexpat.so.1.11.3 1776035628
+obj /usr/lib64/libexpat.so.1.11.3 a3f046294734d68ff7d4104a6273ac23 1774199863
+sym /usr/lib64/libexpatw.so -> libexpatw.so.1.11.3 1776035628
+sym /usr/lib64/libexpatw.so.1 -> libexpatw.so.1.11.3 1776035628
+obj /usr/lib64/libexpatw.so.1.11.3 78b48162e8db3182ff21e51a32a0dcca 1774199863
+dir /usr/lib64/pkgconfig
+obj /usr/lib64/pkgconfig/expat.pc 3540d2a8cec671d76de25e4ff0c2b20c 1774199862
+obj /usr/lib64/pkgconfig/expatw.pc 8aad1af6ee1b73e332efce95e05a26ea 1774199862
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/expat-2.7.5
+obj /usr/share/doc/expat-2.7.5/AUTHORS.bz2 9fa0d11bb579cf4da7885e0dd78585d1 1774199862
+obj /usr/share/doc/expat-2.7.5/README.md.bz2 463c44e2c607036dcac077f64a2b98fa 1774199862
+obj /usr/share/doc/expat-2.7.5/changelog.bz2 476c6557d049592a29fc741c4dd4a6fa 1774199862
+dir /usr/share/doc/expat-2.7.5/html
+obj /usr/share/doc/expat-2.7.5/html/ok.min.css 0a672f2f583305c1b7e8e731933a0893 1774199862
+obj /usr/share/doc/expat-2.7.5/html/reference.html 440beafe61a277e612eda964b4d7706e 1774199862
+obj /usr/share/doc/expat-2.7.5/html/style.css def412f92ebf8f99d236ed543ec6a0c1 1774199862
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/xmlwf.1.bz2 45c5aeb0d8ca948dd0171eb80adfbbe3 1774199862

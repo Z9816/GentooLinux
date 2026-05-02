@@ -1,0 +1,19 @@
+dir /usr
+dir /usr/share
+dir /usr/share/doc
+dir /usr/share/doc/gentoo-functions-1.7.6
+obj /usr/share/doc/gentoo-functions-1.7.6/AUTHORS.bz2 c817800a9f1d96bfb7b6c751b014e7b3 1770571467
+dir /usr/share/man
+dir /usr/share/man/man1
+obj /usr/share/man/man1/consoletype.1.bz2 32351712a917872e279f66369bb5d2f7 1770342423
+dir /lib
+dir /lib/gentoo
+dir /lib/gentoo/functions
+obj /lib/gentoo/functions/experimental.sh 808143d48fadce0cee36a66ce858f92a 1770342423
+obj /lib/gentoo/functions/portage.sh d3e5c29cbba22b6c695911a5e354290d 1770342423
+obj /lib/gentoo/functions/rc.sh 32ecd2cfd006d2bc9250a728021c8087 1770342423
+obj /lib/gentoo/functions/tty.sh fd4233d639ef96a5f3bec0fc8c8b8233 1770342423
+obj /lib/gentoo/functions.sh 8212e8498545ddb666b61867b999eaf2 1770342423
+dir /bin
+obj /bin/consoletype 0a42bd9cf078beb9f2d397c6b6f4cc19 1770571468
+obj /bin/shquote 7a339a65e46300eddf85ff5d4bd461da 1770571468
