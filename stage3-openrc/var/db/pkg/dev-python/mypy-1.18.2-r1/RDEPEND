@@ -1,1 +1,0 @@
-!dev-util/stubgen >=dev-python/pathspec-1.0.0[python_targets_python3_13(-)] >=dev-python/psutil-4[python_targets_python3_13(-)] >=dev-python/typing-extensions-4.6.0[python_targets_python3_13(-)] >=dev-python/mypy-extensions-1.0.0[python_targets_python3_13(-)] dev-lang/python:3.13

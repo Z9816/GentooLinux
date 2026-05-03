@@ -1,7 +1,0 @@
-dir /usr
-dir /usr/bin
-sym /usr/bin/meson-format-array -> ../lib/python-exec/python-exec2 1776035621
-dir /usr/lib
-dir /usr/lib/python-exec
-dir /usr/lib/python-exec/python3.13
-obj /usr/lib/python-exec/python3.13/meson-format-array 474b096ae086572153aef0b45739fc96 1760290379
